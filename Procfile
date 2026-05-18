@@ -1,0 +1,1 @@
+worker: bot_laundry.py
